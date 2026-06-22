@@ -1,0 +1,159 @@
+# AI Electricity Usage Predictor
+
+## Project Overview
+
+AI Electricity Usage Predictor is a Machine Learning based project developed to predict future electricity consumption and estimate electricity 
+bills using previous usage data and appliance usage patterns.
+
+This project helps users:
+- Monitor electricity consumption
+- Predict future electricity units
+- Estimate electricity bills
+- Analyze energy usage trends
+- Reduce electricity wastage
+
+---
+
+# Problem Statement
+
+Many users are unable to track and manage their electricity usage effectively. High electricity consumption increases electricity bills and leads to energy wastage.
+
+This project uses Machine Learning to analyze electricity usage data and predict future electricity consumption.
+
+---
+
+# Solution
+
+The system collects appliance usage information such as:
+- Previous electricity units
+- AC usage hours
+- Fan usage hours
+- TV usage hours
+
+Using Linear Regression Machine Learning algorithm, the system predicts:
+- Future electricity units
+- Estimated electricity bill
+
+The system also displays electricity usage analysis using graph visualization.
+
+---
+
+# Technologies Used
+
+## Frontend
+- Flutter
+
+## Machine Learning
+- Python
+- Scikit-learn
+
+## Data Analysis
+- Pandas
+- NumPy
+
+## Visualization
+- Matplotlib
+- FL Chart
+
+---
+
+# Features
+
+- Electricity Usage Prediction
+- Bill Estimation
+- Graph Visualization
+- Energy Saving Tips
+- High Usage Alert Notification
+- User-Friendly Interface
+
+---
+
+# Machine Learning Algorithm
+
+This project uses:
+## Linear Regression
+
+Linear Regression helps predict future electricity consumption based on previous appliance usage patterns.
+
+---
+
+# Dataset Details
+
+The dataset contains:
+- PreviousUnits
+- ACHours
+- FanHours
+- TVHours
+- TotalUnits
+
+The model is trained using historical electricity usage data.
+
+---
+
+# Project Workflow
+
+Dataset Collection
+↓
+Data Preprocessing
+↓
+Train/Test Split
+↓
+Model Training
+↓
+Electricity Prediction
+↓
+Bill Estimation
+↓
+Graph Visualization
+
+---
+
+# Input
+
+- Previous Electricity Units
+- AC Usage Hours
+- Fan Usage Hours
+- TV Usage Hours
+
+---
+
+# Output
+
+- Predicted Electricity Units
+- Estimated Electricity Bill
+- Usage Analysis Graph
+
+---
+
+# Advantages
+
+- Reduces electricity wastage
+- Saves money
+- Easy electricity monitoring
+- Supports sustainable energy usage
+- User-friendly system
+
+---
+
+# Future Enhancements
+
+- Real-time electricity monitoring
+- IoT smart meter integration
+- Firebase database integration
+- Mobile notification alerts
+- AI chatbot support
+
+---
+
+# Conclusion
+
+AI Electricity Usage Predictor is a smart and sustainable solution that helps users predict electricity consumption and estimate electricity bills using Machine Learning techniques.
+
+The project supports energy conservation and promotes efficient electricity usage.
+
+---
+
+# Developed By
+
+Kasthuri.T
+```
