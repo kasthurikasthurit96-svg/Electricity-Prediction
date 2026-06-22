@@ -1,11 +1,13 @@
 # AI Electricity Usage Predictor
 
+
 ## Project Overview
+
 
 AI Electricity Usage Predictor is a Machine Learning based project developed to predict future electricity consumption and estimate electricity 
 bills using previous usage data and appliance usage patterns.
 
-This project helps users:
+**This project helps users:**
 - Monitor electricity consumption
 - Predict future electricity units
 - Estimate electricity bills
@@ -70,7 +72,8 @@ The system also displays electricity usage analysis using graph visualization.
 
 # Machine Learning Algorithm
 
-This project uses:
+**This project uses:**
+
 ## Linear Regression
 
 Linear Regression helps predict future electricity consumption based on previous appliance usage patterns.
@@ -122,6 +125,10 @@ Graph Visualization
 - Predicted Electricity Units
 - Estimated Electricity Bill
 - Usage Analysis Graph
+
+
+<img width="879" height="601" alt="image" src="https://github.com/user-attachments/assets/bd5d1bf0-8fcd-40f1-a1f6-d39878bf1204" />
+
 
 ---
 
