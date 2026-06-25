@@ -1,3 +1,13 @@
+## Flutter code link - file:///D:/1M1B%20project/ai_electricity_predictor/lib/main.dart
+
+
+## Demo link - http://localhost:54689/
+
+
+## Presentation link - [Uploading AI Electricity Usage Predictor (ppt).pptx…]()
+
+
+
 # AI Electricity Usage Predictor
 
 
@@ -128,6 +138,14 @@ Graph Visualization
 
 
 <img width="879" height="601" alt="image" src="https://github.com/user-attachments/assets/bd5d1bf0-8fcd-40f1-a1f6-d39878bf1204" />
+
+
+## Workflow and Prototype images:
+<img width="982" height="653" alt="Workflow   Prototype image" src="https://github.com/user-attachments/assets/fd91b54c-2c59-43d5-89ec-d867236c7061" />
+<img width="1919" height="1071" alt="Graph image" src="https://github.com/user-attachments/assets/ef895ae2-da02-4b67-8ab0-d78eeb24f2e0" />
+<img width="1919" height="954" alt="Prediction image" src="https://github.com/user-attachments/assets/248e386b-f1d4-4774-834c-fe0d9baaf698" />
+<img width="1919" height="1079" alt="Login image" src="https://github.com/user-attachments/assets/efdc03f8-45ec-46a1-bcc8-fb90488ac5fe" />
+
 
 
 ---
