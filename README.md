@@ -1,5 +1,3 @@
-## Flutter code link - file:///D:/1M1B%20project/ai_electricity_predictor/lib/main.dart
-
 
 ## Demo link - http://localhost:54689/
 
